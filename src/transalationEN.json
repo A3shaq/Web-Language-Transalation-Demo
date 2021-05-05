@@ -1,0 +1,10 @@
+{ 
+    "description": { 
+      "part1": "To get started, change <1> src / App (DE) .js </1> save and reload.", 
+      "part2": "Change the languages ​​between German and English with Help the two buttons." 
+    }, 
+    "new": { 
+      "key": "This will be added automatically" 
+    }, 
+    "title": "Welcome to React" 
+  }
